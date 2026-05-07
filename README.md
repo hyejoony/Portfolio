@@ -1,7 +1,13 @@
 # JEON HYEJOON Portfolio
 
-## 日本語ポートフォリオ
+## データサイエンティスト日本語ポートフォリオ
 
-[![Portfolio Preview](assets/portfolio_preview.png)](docs/JeonHyejoon_Portfolio_JP.pdf)
+📄 [ポートフォリオPDFを見る](./JeonHyejoon_Portfolio_JP.pdf)
 
-📄 Click the image to view the full PDF portfolio.
+📄 PDFアイコンをクリックするとポートフォリオをご覧いただけます。
+
+### 内容
+- データ分析
+- AIモデリング
+- 意思決定支援プラットフォーム開発
+- BtoB / BtoG プロジェクト
